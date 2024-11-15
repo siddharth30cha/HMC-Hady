@@ -1,0 +1,3 @@
+id,category_id,prd_name,prd_description,prd_status,prd_order,main_price,retail_price,wholesale_price,prd_image,prd_stock,prd_track_stock,prd_selling_out_stock,prd_reatil_barcode,prd_reatil_sku,prd_wholesale_barcode,prd_wholesale_sku,,
+1,7,ADAPTER 45W,Lorem Ipsum is simply dummy text of the printing and typesetting industry.,1,4,2.75,8,10,http://hady-mobile-phone.local/backend/uploads/product/S2LKeeOLXcCrVdg-1731160613.webp,100,1,1,ABCDEF,ABC10,WABC,WABC10,,
+3,6,Cover B12,Lorem Ipsum,1,2,8,12,10,http://hady-mobile-phone.local/backend/uploads/product/S2LKeeOLXcCrVdg-1731160613.webp,50,1,1,ABCDE,AB12,WAB,WAB12,,
